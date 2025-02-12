@@ -32,7 +32,7 @@ https://mui.com/components/date-range-picker/
 
 1. Sign into codesandbox.io
 1. Choose the 'import' button in the titlebar, and enter the url for this repository ()
-   ![codesandbox](https://imgur.com/a/zb6BBWE)
+   ![codesandbox](https://i.imgur.com/dgksmOM.png)
 1. Choose 'share' in the titlebar, copy the share url, and share with the interviewers in the meeting.
 1. Run the 'test' task in the project to run your tests.
 1. Just implement your tests in `cypress/integration/DateRangePicker.spec.js`! Let's go!

@@ -1,6 +1,6 @@
-## OpenSpace SDET Takehome Coding Challenge
+## AnyRoad SDET Coding Challenge
 
-This challenge is a part of the hiring process at OpenSpace for the Software Development Engineer in Test position. 
+This challenge is a part of the hiring process at AnyRoad for the Software Development Engineer in Test position.
 
 ![cypress](https://i.imgur.com/1oavJOB.png)
 
@@ -24,26 +24,15 @@ It includes the following major dependencies:
 
 The app only renders a single MUI DateRangePicker with minimal props and includes one Cypress test.
 
-You are welcome to reference any documentation you wish, and we recommend you look at the Mui documentation for its DateRangePicker: 
+You are welcome to reference any documentation you wish, and we recommend you look at the Mui documentation for its DateRangePicker:
 
 https://mui.com/components/date-range-picker/
 
-### Time Limit
+### Steps to get started!
 
-Please spend no more than 2-3 hours on this challenge. Just get as much done as you can in that timebox. We are not looking for an exhaustive suite of tests, but at least 2 or 3 solid tests would be great.
-
-You can focus on simple, fundamental functionality or more advanced props usage, your choice.
-
-### Getting Started
-
-- Clone the repo
-- From the root of the repo run: `yarn install`
-- Start the dev server: `yarn dev`
-- Visit `http://localhost:3000` to see the app running
-- While the dev server is still running, in a separate terminal run cypress: `yarn test`
-- Implement your tests in `cypress/integration/DateRangePicker.spec.ts`
-
-### TypeScript
-
-We prefer you implement your tests in TypeScript, but we also welcome submissions in javascript.
-Just implement your tests in `cypress/integration/DateRangePicker.spec.js`
+1. Sign into codesandbox.io
+1. Choose the 'import' button in the titlebar, and enter the url for this repository ()
+   ![codesandbox](https://imgur.com/a/zb6BBWE)
+1. Choose 'share' in the titlebar, copy the share url, and share with the interviewers in the meeting.
+1. Run the 'test' task in the project to run your tests.
+1. Just implement your tests in `cypress/integration/DateRangePicker.spec.js`! Let's go!

@@ -8,9 +8,11 @@ This challenge is a part of the hiring process at AnyRoad for the Software Devel
 
 **Your mission, should you choose to accept it, is to write some Cypress tests that assert correct behaviors for the MUI DateRangePicker component.**
 
-In addition to implementing the tests, defining the correct behaviors is a part of the challenge. What should we be checking for?
+For the sake of this exercise, pretend like the date picker is the entire app. You should write cypress tests that should fully cover the behavior of this app.
 
-This repo is a simple react boilerplate bootstrapped with [vite](https://vitejs.dev/).
+In addition to implementing the tests, defining the correct behaviors is a part of the challenge. What should we be checking for? It may be useful to begin with outlining some test cases, pseudocoding a bit, and only then moving on to implementation.
+
+This repo is a simple react boilerplate bootstrapped with [vite](https://vitejs.dev/). It can be visited at the same ip as the cypress instance.
 
 It includes the following major dependencies:
 
@@ -30,9 +32,5 @@ https://mui.com/components/date-range-picker/
 
 ### Steps to get started!
 
-1. Sign into codesandbox.io
-1. Choose the 'import' button in the titlebar, and enter the url for this repository ()
-   ![codesandbox](https://i.imgur.com/dgksmOM.png)
-1. Choose 'share' in the titlebar, copy the share url, and share with the interviewers in the meeting.
 1. Run the 'test' task in the project to run your tests.
-1. Just implement your tests in `cypress/integration/DateRangePicker.spec.js`! Let's go!
+1. Implement your tests in `cypress/integration/DateRangePicker.spec.js`! Let's go!
